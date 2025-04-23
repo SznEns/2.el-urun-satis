@@ -92,7 +92,7 @@
               <li><a class="dropdown-item" href="#">🚗 Araba</a></li>
               <li><a class="dropdown-item" href="#">🛋️ Mobilya</a></li>
               <li><a class="dropdown-item" href="#">🎮 Oyun / Konsol</a></li>
-              
+              <li><a class="dropdown-item" href="#">🎮 Oyun / Konsol</a></li>
             </ul>
           </li>
 
